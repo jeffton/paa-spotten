@@ -1,16 +1,19 @@
 # På Spotten
 
-Social album hist list at http://påspotten.dk
+Social album hist list at [påspotten.dk](http://påspotten.dk)
 
-Early stages -- nothing working yet.
+Early stages; nothing working yet.
 
 
-Parts: 
+## Overview
+
 * Site: Webpack project using Vue.js
 * API: Server-side API to host in Node.js
 
 
-## Site dev & build
+### Site dev & build
+
+Install Node.js and NPM, then do
 
 ``` bash
 # install dependencies
