@@ -1,0 +1,13 @@
+{
+	"name": "P\u00e5 Spotten",
+	"icons": [
+		{
+			"src": "\/favicon-192.png",
+			"sizes": "192x192",
+			"type": "image\/png",
+			"density": 4
+		}
+	],
+	"start_url": "https:\/\/p\u00e5spotten.dk",
+	"display": "standalone"
+}
